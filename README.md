@@ -1,6 +1,6 @@
 # Duckling&Ball Technologies 
 
-*Where kids are the bosses, and teens are the superheroes*
+### If you are a member of HackClub, message Duckers on the Slack!!
 
 Duckling & Ball is a kid-led, teen-run organization that's trying to adult...I mean, create open-source, stylish operating systems, web experiences, and laptops that won't make you want to pull your hair out.
 
